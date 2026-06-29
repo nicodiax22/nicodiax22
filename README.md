@@ -1,21 +1,78 @@
-Hola, soy Nicolas Diaz
+# Portfolio de proyectos - Nicolas Diaz
+
 Trabajo en datos, automatizacion, dashboards e inteligencia artificial aplicada a operaciones reales.
-Este es mi perfil publico de GitHub. Aca muestro los 3 proyectos principales de esta cuenta: 2 repositorios publicos y 1 repositorio privado descripto a nivel funcional y tecnico, sin exponer credenciales, datos internos ni informacion sensible.
-Perfil publico
-GitHub publico: https://github.com/nicodiax22
-Perfil developer: https://github.com/nicolasdiaz-dev
-LinkedIn: https://www.linkedin.com/in/nicolas-diaz-641a17346
-Que hago
-Construyo dashboards para analizar ventas, inversion, resultados y productividad.
-Automatizo procesos con Python, pandas, APIs y GitHub Actions.
-Desarrollo aplicaciones y demos visuales para explicar productos de datos, reporting y gestion operativa.
-Integro herramientas de marketing, operaciones y soporte para transformar datos en decisiones.
-Evolucion diaria, mix de inversion y ranking operativo.
-Repositorio: https://github.com/nicodiax22/Porfolio_Power_Bi
-Stack: Power BI, DAX, Power Query, Python, pandas, Excel.
-POS con busqueda por codigo de barras o nombre, carrito editable, descuentos, pagos en efectivo, Mercado Pago o mixtos y ticket imprimible.
-Repositorio: privado en nicodiax22/Kiosco-GyN.
-Stack: Python, SQLite, HTML, CSS, JavaScript, unittest.
-Nota: la descripcion publica no incluye datos reales del negocio, credenciales, archivos de base, backups ni configuracion privada.
-Pagina publica:
-Calidad de datos, trazabilidad y decisiones accionables.
+
+Este repositorio funciona como portfolio publico: resume proyectos abiertos, proyectos privados descriptos a nivel funcional y links principales para conocer mi trabajo sin exponer credenciales, bases, datos internos ni informacion sensible.
+
+## Links principales
+
+- Portfolio web: [nicodiax22.github.io/nicodiax22](https://nicodiax22.github.io/nicodiax22/)
+- GitHub publico: [nicodiax22](https://github.com/nicodiax22)
+- Cuenta developer: [nicolasdiaz-dev](https://github.com/nicolasdiaz-dev)
+- LinkedIn: [Nicolas Diaz](https://www.linkedin.com/in/nicolas-diaz-641a17346)
+
+## En que trabajo
+
+- Dashboards para ventas, inversion, productividad, campanas y seguimiento operativo.
+- Automatizaciones con Python, pandas, APIs, GitHub Actions e integraciones internas.
+- Analisis de datos para detectar tendencias, alertas, rankings y oportunidades de mejora.
+- IA aplicada a operaciones, soporte, reporting y asistentes de trabajo.
+- Herramientas simples de usar, faciles de auditar y conectadas con problemas reales.
+
+## Proyectos publicos
+
+### Ads App
+
+Demo publica de una app de reporting publicitario inspirada en operaciones reales de GOUT. Usa datos aleatorios o sanitizados para mostrar la logica del producto sin revelar informacion interna.
+
+- Repositorio: [nicodiax22/ads_app](https://github.com/nicodiax22/ads_app)
+- Tipo: dashboard / app de reporting operativo.
+- Stack: Python, datos simulados, visualizacion y reporting.
+- Enfoque: lectura rapida de campanas, resultados, evolucion e indicadores clave.
+
+### Porfolio Power BI
+
+Repositorio orientado a mostrar habilidades en Power BI, modelado de datos, visualizacion y analisis operativo.
+
+- Repositorio: [nicodiax22/Porfolio_Power_Bi](https://github.com/nicodiax22/Porfolio_Power_Bi)
+- Tipo: portfolio de dashboards y analisis.
+- Stack: Power BI, DAX, Power Query, Python, pandas y Excel.
+- Enfoque: evolucion diaria, mix de inversion, rankings, comparativos y decisiones accionables.
+
+### Portfolio GitHub Pages
+
+Pagina publica de presentacion para centralizar proyectos, links y descripciones funcionales.
+
+- URL: [nicodiax22.github.io/nicodiax22](https://nicodiax22.github.io/nicodiax22/)
+- Tipo: landing de portfolio.
+- Stack: HTML, CSS y GitHub Pages.
+- Enfoque: que el visitante pueda entrar, entender el perfil y hacer click en los proyectos.
+
+## Proyectos privados
+
+### Kiosco GyN
+
+Sistema POS privado para gestion de ventas de kiosco. La descripcion es publica, pero el codigo y los datos quedan privados.
+
+- Repositorio: privado en `nicodiax22/Kiosco-GyN`.
+- Tipo: punto de venta / gestion comercial.
+- Stack: Python, SQLite, HTML, CSS, JavaScript y unittest.
+- Funciones: busqueda por codigo de barras o nombre, carrito editable, descuentos, pagos en efectivo, Mercado Pago o mixtos y ticket imprimible.
+- Seguridad: no se publican datos reales del negocio, credenciales, backups ni configuracion privada.
+
+### Sudaka / OpenClaw
+
+Asistente operativo usado para automatizar tareas, consultas, reportes, seguimiento y soporte diario en GOUT Argentina. Se menciona como parte del ecosistema de trabajo, sin publicar prompts internos, credenciales, reglas privadas ni datos sensibles.
+
+- Tipo: asistente operativo e IA aplicada.
+- Stack general: automatizaciones, APIs, herramientas de mensajeria, memoria operativa y flujos de trabajo.
+- Enfoque: reducir tareas manuales, ordenar informacion, responder consultas y acelerar decisiones.
+- Nota: la implementacion completa no se expone publicamente por seguridad operativa.
+
+## Cuenta developer
+
+Tambien mantengo la cuenta [nicolasdiaz-dev](https://github.com/nicolasdiaz-dev), orientada a pruebas, desarrollo y proyectos complementarios. La menciono porque forma parte del recorrido tecnico y puede contener demos o piezas separadas del portfolio principal.
+
+## Criterio de publicacion
+
+Publico solo material apto para mostrar: demos, datos ficticios, capturas controladas o descripciones funcionales. Los proyectos privados se explican a nivel de producto y arquitectura general, sin compartir informacion real de clientes, credenciales, bases, backups, configuraciones internas ni reglas sensibles.
