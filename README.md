@@ -23,7 +23,7 @@ Este repositorio funciona como portfolio publico: resume proyectos abiertos, pro
 
 ### AI Report Studio
 
-Generador visual de reportes ejecutivos con datos demo seguros. Convierte metricas operativas en KPIs, insights, riesgos, acciones recomendadas y una salida lista para imprimir o exportar como PDF.
+Generador visual de reportes ejecutivos con datos demo seguros. Convierte CSV o JSON en KPIs, resumen ejecutivo, insights, riesgos, acciones recomendadas y una salida lista para imprimir o exportar como PDF.
 
 - Demo: [nicodiax22.github.io/ai-report-studio](https://nicodiax22.github.io/ai-report-studio/)
 - Repositorio: [nicodiax22/ai-report-studio](https://github.com/nicodiax22/ai-report-studio)
