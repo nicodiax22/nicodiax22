@@ -21,6 +21,16 @@ Este repositorio funciona como portfolio publico: resume proyectos abiertos, pro
 
 ## Proyectos publicos
 
+### AI Report Studio
+
+Generador visual de reportes ejecutivos con datos demo seguros. Convierte metricas operativas en KPIs, insights, riesgos, acciones recomendadas y una salida lista para imprimir o exportar como PDF.
+
+- Demo: [nicodiax22.github.io/ai-report-studio](https://nicodiax22.github.io/ai-report-studio/)
+- Repositorio: [nicodiax22/ai-report-studio](https://github.com/nicodiax22/ai-report-studio)
+- Tipo: app web estatica / reporting ejecutivo.
+- Stack: HTML, CSS, JavaScript y GitHub Pages.
+- Enfoque: mostrar como IA + producto + datos pueden transformar informacion cruda en un entregable claro para decision.
+
 ### Ads App
 
 Demo publica de una app de reporting publicitario inspirada en operaciones reales de GOUT. Usa datos aleatorios o sanitizados para mostrar la logica del producto sin revelar informacion interna.
